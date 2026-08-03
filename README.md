@@ -22,12 +22,6 @@ Currently, I work as a **Backend Developer** at **Compre Sua Peça**, developing
 
 My daily work involves backend development, automation, APIs, data processing and Artificial Intelligence integrations. I'm always looking to improve my technical skills while building clean, maintainable and efficient software.
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
-
-<p align="left">
-  <span>Working at Compre Sua Peça 🚀</span>
-</p>
-
 <br>
 
 <div>
