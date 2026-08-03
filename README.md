@@ -12,7 +12,15 @@
   <a href = "mailto:bibia.almeida06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+---
+
+# About Me
+
+I'm a **Backend Developer** passionate about building scalable systems, APIs and integrations that solve real-world problems.
+
+Currently, I work as a **Backend Developer** at **Compre Sua Peça**, developing solutions for e-commerce platforms, integrations and cloud services using **Python**, **TypeScript**, **JavaScript** and **AWS**.
+
+My daily work involves backend development, automation, APIs, data processing and Artificial Intelligence integrations. I'm always looking to improve my technical skills while building clean, maintainable and efficient software.
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
