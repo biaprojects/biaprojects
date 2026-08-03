@@ -22,14 +22,14 @@ Currently, I work as a **Backend Developer** at **Compre Sua Peça**, developing
 
 My daily work involves backend development, automation, APIs, data processing and Artificial Intelligence integrations. I'm always looking to improve my technical skills while building clean, maintainable and efficient software.
 
+# 
+
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/biaprojects">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biaprojects&layout=compact&langs_count=16&theme=dark&cache_seconds=50000"/>
 </div>
-
-<br>
 
 <!-- ##  -->
 <!--
@@ -44,7 +44,7 @@ My daily work involves backend development, automation, APIs, data processing an
 
 ## 
  
- <br> 
+<br> 
  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" />
