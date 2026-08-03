@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <em>Coding my way through a journey of learning!</em>
+  <em>Building backend solutions!</em>
 </p>
 
 <br>
