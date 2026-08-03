@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <em>Building backend solutions!</em>
+  <em>Building backend solutions</em>
 </p>
 
 <br>
@@ -44,6 +44,8 @@ My daily work involves backend development, automation, APIs, data processing an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35" />
   <!-- <img src="https://github.com/user-attachments/assets/207835d2-7858-4f65-9f96-2961b1932670" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="35" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" /> -->
 </p>
 
 ##
