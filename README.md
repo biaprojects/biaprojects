@@ -57,13 +57,13 @@
 
 ##
 
-<br>
+<!-- <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=biaprojects&theme=whatsapp-dark&hide_border=true&border_radius=30&card_width=506&border=3900EB" alt="GitHub Streak"  />
 </div>
 
-##
+## -->
 
 <div align="center">
   <picture>
