@@ -1,4 +1,4 @@
-<h2 align="center">Hello! I'm Beatriz - Welcome to my GitHub</h2>
+<h1 align="center">Beatriz Almeida</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
