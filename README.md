@@ -74,3 +74,9 @@ My daily work involves backend development, automation, APIs, data processing an
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biaprojects/biaprojects/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
+<p align="center">
+<i>"Always learning. Always improving. Always building solutions."</i>
+</p>
