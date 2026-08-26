@@ -1,9 +1,9 @@
 <h1 align="center">Beatriz Almeida</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <em>Building backend solutions</em>
-</p>
+</p> -->
 
 <br>
 
